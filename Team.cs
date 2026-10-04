@@ -18,6 +18,6 @@ static class Team
         {
             Console.WriteLine($"- {member}");
         }
-        Console.WriteLine($"Teamets motto: {Quotes.GetQuote()}");
+        Console.WriteLine($"Teamets motto: {Quotes.GetRandomQuote()}");
     }
 }
