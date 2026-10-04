@@ -8,6 +8,7 @@ class Program
 
         Console.WriteLine("=== Suvnetappen ===");
         Console.WriteLine("Nu skall det bli coda av!");
+        Console.WriteLine("Welcome!");
         Console.WriteLine();
 
         Team.PrintMembers();
