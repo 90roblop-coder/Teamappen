@@ -4,7 +4,8 @@ static class Team
 {
     static List<string> members = new List<string>
     {
-        "Robin"
+        "Robin",
+        "Tony"
     };
 
     public static void PrintMembers()
