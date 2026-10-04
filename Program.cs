@@ -6,7 +6,7 @@ class Program
     {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-        Console.WriteLine("=== Teamappen ===");
+        Console.WriteLine("=== Suvnetappen ===");
         Console.WriteLine("Välkommen!");
         Console.WriteLine();
 
