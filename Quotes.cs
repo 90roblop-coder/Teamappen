@@ -6,6 +6,7 @@ static class Quotes
     {
         "Commit early, commit often.",
         "Det fungerar på min dator.",
+        "Code Test Break Repeat"
     };
 
     public static string GetQuote()
