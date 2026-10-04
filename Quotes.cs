@@ -12,7 +12,7 @@ static class Quotes
         "Kodning: 10 % skriva kod, 90 % undra varför koden inte fungerar."
     };
 
-    public static string GetQuote()
+    public static string GetRandomQuote()
     {
         Random random = new Random();
         return quotes[random.Next(quotes.Count)];
