@@ -7,7 +7,8 @@ static class Quotes
         "Commit early, commit often.",
         "Det fungerar på min dator.",
         "Code Test Break Repeat",
-        "Git är bra att ha"
+        "Git är bra att ha",
+        "Du anar ugglor som får käder"
     };
 
     public static string GetQuote()
