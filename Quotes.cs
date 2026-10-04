@@ -7,6 +7,7 @@ static class Quotes
         "Commit early, commit often.",
         "Det fungerar på min dator.",
         "Code Test Break Repeat",
+        "Du anar ugglor som får käder",
         "Kodning: 10 % skriva kod, 90 % undra varför koden inte fungerar."
     };
 
